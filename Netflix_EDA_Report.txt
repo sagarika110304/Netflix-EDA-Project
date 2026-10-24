@@ -1,0 +1,34 @@
+
+NETFLIX EXPLORATORY DATA ANALYSIS REPORT
+========================================
+
+1. OBJECTIVE
+Analyze Netflix titles to identify content patterns,
+ratings, genres, countries, and movie durations.
+
+2. DATASET OVERVIEW
+Original records: 8807
+Records after cleaning: 8794
+Columns: 13
+Duplicate records remaining: 0
+Missing values remaining: 0
+
+3. CONTENT DISTRIBUTION
+Movies: 6128
+TV Shows: 2666
+
+4. KEY FINDINGS
+Most common content rating: TV-MA
+Most common genre: International Movies
+Country with most associated titles: United States
+Average movie duration: 99.58 minutes
+
+5. CONCLUSION
+The analysis explores the composition of Netflix's catalog,
+including content types, ratings, genres, geographic distribution,
+and movie durations. The visualizations help identify patterns
+and support further investigation into the platform's catalog.
+
+Note: Country and genre counts can include multiple entries
+for the same title. These results describe the supplied dataset
+and do not establish causation or current Netflix availability.
